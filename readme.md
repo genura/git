@@ -9,7 +9,7 @@ Evet, **.gitignore** dosyasını sonradan eklediğinizde, Git'in mevcut izlenen 
 **.gitignore** dosyasını projenizdeki uygun konuma ekleyin.
 Daha önce izlenen ancak artık yoksaymak istediğiniz dosyaları "untrack" etmek için şu komutu kullanın:
 
-```
+```bash
 if (a=55){
     console.log("aa");
 }
