@@ -1,23 +1,16 @@
-# Merhaba Örnek Başlık
 
-[Kod Örneğine Git](#kod-ornegi)
 
-Bu bölümde açıklamalarınızı yazabilirsiniz. Markdown dosyasında, paragraflar arasında boş satır bırakmanız gerekir.
+# Genel Notlar
+## .gitignore kullanimi
 
-Bla bla bla bla açıklama
 
-## Kod Örneği
+Evet, **.gitignore** dosyasını sonradan eklediğinizde, Git'in mevcut izlenen dosyaları yoksayması için bazı ek adımlar gerçekleştirmeniz gerekir:
 
-Kod örneklerini üç tane tırnak işareti arasına alarak yazabilirsiniz:
+**.gitignore** dosyasını projenizdeki uygun konuma ekleyin.
+Daha önce izlenen ancak artık yoksaymak istediğiniz dosyaları "untrack" etmek için şu komutu kullanın:
 
-```python
-# Bu bir Python kod örneğidir
-print("Merhaba Dünya!")
 ```
-
-
-```javascript
-if (xx=520){
-  print....
+if (a=55){
+    console.log("aa");
 }
 ```
