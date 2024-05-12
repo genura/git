@@ -14,3 +14,10 @@ Kod örneklerini üç tane tırnak işareti arasına alarak yazabilirsiniz:
 # Bu bir Python kod örneğidir
 print("Merhaba Dünya!")
 ```
+
+
+```javascript
+if (xx=520){
+  print....
+}
+```
